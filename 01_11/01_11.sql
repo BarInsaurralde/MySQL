@@ -1,0 +1,2 @@
+SELECT * FROM factura
+WHERE fecha BETWEEN '2022-01-01' AND '2022-01-31';
