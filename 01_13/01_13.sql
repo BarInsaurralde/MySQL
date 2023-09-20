@@ -1,0 +1,2 @@
+ALTER TABLE cliente
+ADD COLUMN registro DATE DEFAULT '2023-09-12';
