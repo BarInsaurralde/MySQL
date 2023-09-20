@@ -1,0 +1,1 @@
+UPDATE lista_clientes SET email = 'juana@prueba.com' WHERE id = 1;
