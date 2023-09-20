@@ -1,0 +1,5 @@
+SET FOREIGN_KEY_CHECKS = 0;
+
+DELETE FROM libreria.empleado WHERE id = 4;
+
+SET FOREIGN_KEY_CHECKS = 1;
