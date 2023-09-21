@@ -1,0 +1,2 @@
+ALTER TABLE libro
+ADD COLUMN detalle JSON;
