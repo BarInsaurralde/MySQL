@@ -1,0 +1,1 @@
+ALTER TABLE cliente AUTO_INCREMENT = 61;

@@ -1,0 +1,1 @@
+DELETE FROM cliente WHERE ID > 60;
