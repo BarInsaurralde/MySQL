@@ -33,6 +33,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-mysql
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFGAStu1KZMhQ/learning-public-crop_675_1200/0/1702283968550?e=2147483647&v=beta&t=dJA9UdzQBxEI1xaN7vC0GyKZhJwMKWMs5SY8WA_diwE
 
 [1]: # (End of ES-Instruction ###############################################################################################)
